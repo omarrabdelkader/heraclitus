@@ -1,0 +1,20 @@
+.filter-title {
+  text-align: center;
+  margin-top: 6px;
+  color: #484848;
+}
+
+.filter-button {
+text-align: center;
+margin-left: 30px;
+width: 90px;
+border: none;
+border-radius: 5px;
+}
+
+.colo-info {
+display: flex;
+flex-direction: column;
+gap: 0px;
+justify-content: center;
+}
